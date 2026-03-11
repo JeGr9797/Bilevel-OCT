@@ -72,3 +72,14 @@ This procedure is **bagging-inspired** because it generates multiple sampled ver
 - predictive stability,
 - robustness of the selected hyperparameters,
 - frequency of the most common hyperparameter pairs across runs.
+
+## Requirements
+
+To run the code in this repository, the following Python libraries are required:
+
+- `numpy`
+- `pandas`
+- `matplotlib`
+- `scipy`
+- `scikit-learn`
+- `gurobipy`
