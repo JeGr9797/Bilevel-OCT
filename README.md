@@ -83,3 +83,24 @@ To run the code in this repository, the following Python libraries are required:
 - `scipy`
 - `scikit-learn`
 - `gurobipy`
+
+## Sample code
+
+
+```python
+from src.bilevel_oct import run_grid_experiments_with_analysis
+
+df_all, summary_df = run_grid_experiments_with_analysis(
+    paths_csv=["data/fertility_dataset_converted.csv"],
+    frac_by_dataset={"data/fertility_dataset_converted.csv": 0.20},
+    alphas=[0.1],
+    n_runs=5,
+    base_seed=71,
+    test_size=0.20,
+    max_depth=3,
+    timelimit=600,
+)
+
+## Acknowledgments
+
+
