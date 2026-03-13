@@ -119,3 +119,5 @@ df_all, summary_df = run_grid_experiments_with_analysis(
 
 The authors acknowledge the contribution of Bo Lin and Bo Tang through the repository [Optimal_Classification_Trees](https://github.com/LucasBoTang/Optimal_Classification_Trees/tree/main), which supported the development of this code. The authors also acknowledge the support provided by Eduardo Salazar from AMPL during the early stages of this research.
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
