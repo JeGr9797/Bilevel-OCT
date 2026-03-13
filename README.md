@@ -44,7 +44,7 @@ The core model is a bilevel-inspired Optimal Classification Tree (OCT) formulati
 - the **upper-level variables** determine hyperparameters such as:
   - the number of active splits in the tree,
   - the minimum number of observations per active leaf;
-  - Aditionally minimize misclassfications in the evaluation.
+  - additionally minimize misclassifications in the evaluation.
 
 - the **lower-level problem** determines:
   - the feature used at each branch node,
