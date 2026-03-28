@@ -646,7 +646,9 @@ class OptimalDecisionTreeClassifier:
             )
         )
 
-        model.setObjective(obj1 + obj2 + obj3)
+        #model.setObjective(obj1 + obj2 + obj3)
+        model.setObjective(obj2 + obj3)
+      
 
         vars_dict = {
             "a": a,
