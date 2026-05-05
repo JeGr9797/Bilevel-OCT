@@ -1,3 +1,8 @@
+[![GitHub contributors](https://img.shields.io/github/contributors/JeGr9797/Bilevel-OCT.svg)](https://github.com/JeGr9797/Bilevel-OCT/graphs/contributors)
+[![Merged PRs](https://img.shields.io/github/issues-pr-closed-raw/JeGr9797/Bilevel-OCT.svg?label=merged+PRs)](https://github.com/JeGr9797/Bilevel-OCT/pulls?q=is%3Apr+is%3Amerged)
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+[![License](https://img.shields.io/github/license/JeGr9797/Bilevel-OCT.svg)](https://github.com/JeGr9797/Bilevel-OCT/blob/main/LICENSE)
+
 # Bilevel-OCT
 This repository contains the implementation of a bilevel optimization framework for hyperparameter estimation in classification trees, namely Bilevel Optimal Classification Trees (B-OCT).
 
